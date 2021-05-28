@@ -1,7 +1,5 @@
 # QA_Challenge_Stant
 
-# stantQAChallenge
-
 ### Requirements
 
 What needs to run this project:
